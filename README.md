@@ -1,2 +1,2 @@
 # CursoIA
-Alguns exemplos do meu curso de IA/ML/CNN
+Alguns exemplos que fiz do curso de IA/ML/CNN
